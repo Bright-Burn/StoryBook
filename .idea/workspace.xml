@@ -11,37 +11,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f08f4d0a-1896-4f0d-8f3e-70ab862c10c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GrafitStorybook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.f67f1767a424987481a5.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.fa98a194e7cd84c13070.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.fa98a194e7cd84c13070.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime~main.ee0a81bd63756dfe2fda.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime~main.fa98a194e7cd84c13070.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime~main.fa98a194e7cd84c13070.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb_dll/storybook_docs-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb_dll/storybook_docs_dll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb_dll/storybook_ui-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb_dll/storybook_ui_dll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/code-brackets.2e1112d7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/colors.a4bd0486.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/comments.a3859089.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/direction.b770f9af.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/flow.edad2ac1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/plugin.d494b228.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/repo.6d496322.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/media/stackalt.dba9fbb3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors~main.81657d6e275062a909d3.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors~main.81657d6e275062a909d3.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.a93b493cf83f4cad1a75.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.a93b493cf83f4cad1a75.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/runtime~main.a93b493cf83f4cad1a75.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vendors~main.a93b493cf83f4cad1a75.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vendors~main.a93b493cf83f4cad1a75.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GrafitStorybook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/iframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.f67f1767a424987481a5.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.f67f1767a424987481a5.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.fa98a194e7cd84c13070.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.fa98a194e7cd84c13070.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime~main.ee0a81bd63756dfe2fda.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/runtime~main.ee0a81bd63756dfe2fda.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime~main.fa98a194e7cd84c13070.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/runtime~main.a93b493cf83f4cad1a75.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime~main.fa98a194e7cd84c13070.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb_dll/storybook_docs-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sb_dll/storybook_docs-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb_dll/storybook_docs_dll.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sb_dll/storybook_docs_dll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb_dll/storybook_ui-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sb_dll/storybook_ui-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb_dll/storybook_ui_dll.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sb_dll/storybook_ui_dll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/code-brackets.2e1112d7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/colors.a4bd0486.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/comments.a3859089.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/direction.b770f9af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/flow.edad2ac1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/plugin.d494b228.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/repo.6d496322.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/stackalt.dba9fbb3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.81657d6e275062a909d3.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vendors~main.81657d6e275062a909d3.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.81657d6e275062a909d3.bundle.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vendors~main.81657d6e275062a909d3.bundle.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vendors~main.a93b493cf83f4cad1a75.bundle.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.fa98a194e7cd84c13070.bundle.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +67,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1603874260" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1603874259" />
+                    <option name="lastUsedInstant" value="1603879950" />
                   </RecentBranch>
                 </list>
               </option>
@@ -103,6 +104,7 @@
       <workItem from="1603876954991" duration="87000" />
       <workItem from="1603877425832" duration="30000" />
       <workItem from="1603878496188" duration="166000" />
+      <workItem from="1603879290738" duration="1202000" />
     </task>
     <servers />
   </component>
